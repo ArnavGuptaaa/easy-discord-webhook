@@ -1,0 +1,16 @@
+{
+  "name": "easy-discord-webhooks",
+  "version": "1.0.0",
+  "description": "send nicely formatted webhooks",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev" : "node test.js"
+  },
+  "keywords": ["discord", "discord-webhook", "webhook"],
+  "author": "Nav",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.0"
+  }
+}
